@@ -190,7 +190,7 @@ Only basic arithmetic and SLT* (for carry computations) are included.
 
 ===    RVM (Multiply)
 
-Multiplication is included; division and remaindering excluded.
+Multiplication is included; division and remainder excluded.
 ----
     MUL             Zkt M
     MULH            Zkt M
